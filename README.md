@@ -21,10 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kousar-saeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kousar-saeed" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kousar-saeed-65742124a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kousar-saeed-65742124a" height="30" width="40" /></a>
 <a href="https://instagram.com/kousar.njo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kousar.njo" height="30" width="40" /></a>
 <a href="https://medium.com/@kousar.njo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kousar.njo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@convocurrents" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@convocurrents" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@convocurrents" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@convocurrents" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kousarsaeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kousarsaeed" height="30" width="40" /></a>
 </p>
 
