@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kousar Saeed</h1>
 <h3 align="center">Passionate about coding, tech, and exploring new horizons</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kousar-coder&label=Profile%20views&color=0e75b6&style=flat" alt="kousar-coder" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kousar-coder" alt="kousar-coder" /></a> </p>
 
 - 🔭 Currently exploring: **Machine Learning and Artificial Intelligence**
