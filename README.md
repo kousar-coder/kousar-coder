@@ -4,7 +4,7 @@
 ╔═══════════════════════════════════════════════════════════╗
 ║   K O U S A R   S A E E D                                 ║
 ║   AI & Full-Stack Engineer                                ║
-║                                                           ║
+║   FAST-NUCES Karachi  ·  NVIDIA 6G Dev  ·  Buildables AI  ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
@@ -19,13 +19,14 @@
 
 ## `whoami`
 
-Final-year CS student at **FAST-NUCES Karachi** building production AI systems.
-I work across the full stack — from GPU-accelerated inference pipelines to deployed web products.
+AI & Full-Stack Engineer shipping production systems across the ML and web stack.
+From GPU-accelerated inference pipelines to cloud-deployed products — I build things end to end.
 
-- 🛰️ Built a **Multimodal ISAC system** for NVIDIA's 6G Developer Program — 5G NR radar + YOLOv8 + CUDA
-- 🤖 **AI Fellow @ Buildables** — LangChain, RAG pipelines, LLM deployment, n8n automation
-- 🔒 **CI/CD Engineer @ iSeeWaves** — enterprise security infrastructure on microservices
-- 🎓 Graduating **August 2026** · Open to full-time and internship roles in AI & engineering
+- 🛰️ Built a **GPU-accelerated Multimodal ISAC system** — 5G NR radar fused with YOLOv8, validated against 3GPP standards
+- 🤖 Shipped AI products using **LangChain, RAG, LLM APIs** and n8n automation pipelines
+- 🔒 Delivered **CI/CD and security infrastructure** on enterprise-grade microservices
+- 🔍 Currently deep in **computer vision, LLM inference, and full-stack AI deployment**
+- 💼 Open to full-time roles and high-impact collaborations
 
 ---
 
