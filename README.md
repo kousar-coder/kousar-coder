@@ -1,36 +1,102 @@
-<h1 align="center">Hi 👋, I'm Kousar Saeed</h1>
-<h3 align="center">Passionate about coding, tech, and exploring new horizons</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kousar-coder" alt="kousar-coder" /></a> </p>
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   K O U S A R   S A E E D                                 ║
+║   AI & Full-Stack Engineer                                ║
+║   FAST-NUCES Karachi  ·  NVIDIA 6G Dev  ·  Buildables AI  ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-- 🔭 Currently exploring: **Machine Learning and Artificial Intelligence**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kousarsaeed-65742124a)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kousarsaeed.narejo@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kousarsaeed)
 
-- 🌱 I’m currently learning **React, Node.js, GraphQL, Docker, Kubernetes**
+</div>
 
-- 👯 Seeking collaborations on: **Cool open-source projects and anything else tech-related.**
+---
 
-- 🤝 Looking for assistance with: **Implementing advanced algorithms for data analysis**
+## `whoami`
 
-- 💬 Let's chat about: **Coding, tech trends, and more!**
+Final-year CS student at **FAST-NUCES Karachi** building production AI systems.  
+I work across the full stack — from GPU-accelerated inference pipelines to deployed web products.
 
-- 📫 Reach me at: **kousarsaeed.narejo@gmail.com**
+- 🛰️ Built a **Multimodal ISAC system** for NVIDIA's 6G Developer Program — 5G NR radar fused with YOLOv8, deployed with CUDA
+- 🤖 **AI Fellow @ Buildables** — LangChain, RAG, LLM deployment, n8n automation
+- 🔒 **CI/CD Engineer @ iSeeWaves** — enterprise security infrastructure on microservices
+- 🎓 Graduating **August 2026** · Open to full-time and internship roles
 
-- ⚡ Fun fact **I'm a chess enthusiast and avid bookworm!**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kousar-saeed-65742124a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kousar-saeed-65742124a" height="30" width="40" /></a>
-<a href="https://instagram.com/kousar.njo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kousar.njo" height="30" width="40" /></a>
-<a href="https://medium.com/@kousar.njo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kousar.njo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@convocurrents" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@convocurrents" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kousarsaeed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kousarsaeed" height="30" width="40" /></a>
-</p>
+## `tech_stack`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**AI & ML**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kousar-coder&show_icons=true&locale=en&layout=compact" alt="kousar-coder" /></p>
+**Backend & APIs**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kousar-coder&show_icons=true&locale=en" alt="kousar-coder" /></p>
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kousar-coder&" alt="kousar-coder" /></p>
+**DevOps & Cloud**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![NVIDIA](https://img.shields.io/badge/NVIDIA_Aerial_SDK-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+---
+
+## `projects`
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [**SenseForge**](https://github.com/kousar-coder/SenseForge) | GPU-accelerated ISAC system — 5G NR radar + YOLOv8 fusion. 95 tests, 3GPP-validated. Built for NVIDIA 6G Dev Program. | PyTorch · Sionna · NVIDIA Aerial SDK · FastAPI · React · Docker |
+| [**Edgenie.io**](https://github.com/kousar-coder/Edgenie) | AI-powered CAIE exam prep platform — RAG chat tutor, AI grader, PDF classifier | Django · FastAPI · React Native · AWS EC2 |
+| [**MeetMind**](https://github.com/kousar-coder/MeetMind) | AI meeting assistant — transcribes with Groq Whisper, summarizes with Llama 3.3 70B, exports to PDF/Google Docs | Streamlit · Groq · Llama 3.3 · Google Docs API |
+| [**HireRadar**](https://github.com/kousar-coder/HireRadar) | AI job-matching assistant — RAG-based JD ↔ profile scoring with ranked recommendations | LangChain · FastAPI · React |
+
+---
+
+## `experience`
+
+```
+2026        NVIDIA 6G Developer Program      AI & GPU Systems Engineer
+2025–2026   iSeeWaves                        Software Developer · CI/CD & Security  
+2025        Buildables                       AI Fellow
+```
+
+---
+
+## `github_stats`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=kousar-coder&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousar-coder&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Building things that work in the real world.*  
+**kousarsaeed.narejo@gmail.com**
+
+</div>
