@@ -1,32 +1,98 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║   K O U S A R   S A E E D                                 ║
-║   AI & Full-Stack Engineer                                ║
-║   FAST-NUCES Karachi  ·  NVIDIA 6G Dev  ·  Buildables AI  ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<svg width="860" height="200" viewBox="0 0 860 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff"/>
+      <stop offset="50%" style="stop-color:#a371f7"/>
+      <stop offset="100%" style="stop-color:#58a6ff"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="14" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="200" fill="url(#bg)" rx="12"/>
+
+  <!-- Subtle grid -->
+  <g stroke="#21262d" stroke-width="0.5" opacity="0.5">
+    <line x1="0" y1="40" x2="860" y2="40"/>
+    <line x1="0" y1="80" x2="860" y2="80"/>
+    <line x1="0" y1="120" x2="860" y2="120"/>
+    <line x1="0" y1="160" x2="860" y2="160"/>
+    <line x1="100" y1="0" x2="100" y2="200"/>
+    <line x1="260" y1="0" x2="260" y2="200"/>
+    <line x1="420" y1="0" x2="420" y2="200"/>
+    <line x1="580" y1="0" x2="580" y2="200"/>
+    <line x1="740" y1="0" x2="740" y2="200"/>
+  </g>
+
+  <!-- Glowing orbs -->
+  <circle cx="70" cy="100" r="60" fill="#58a6ff" opacity="0.07" filter="url(#softglow)"/>
+  <circle cx="790" cy="100" r="60" fill="#a371f7" opacity="0.07" filter="url(#softglow)"/>
+  <circle cx="430" cy="30" r="40" fill="#a371f7" opacity="0.04" filter="url(#softglow)"/>
+
+  <!-- Top accent bar -->
+  <rect x="0" y="0" width="860" height="3" fill="url(#accent)" rx="2"/>
+
+  <!-- Left decorative bracket -->
+  <text x="32" y="122" font-family="monospace" font-size="58" fill="#58a6ff" opacity="0.85" filter="url(#glow)">{</text>
+
+  <!-- Name -->
+  <text x="430" y="90" font-family="'Segoe UI', Arial, monospace" font-size="36" font-weight="800"
+        fill="url(#accent)" text-anchor="middle" letter-spacing="8" filter="url(#glow)">KOUSAR SAEED</text>
+
+  <!-- Thin divider -->
+  <line x1="190" y1="103" x2="670" y2="103" stroke="url(#accent)" stroke-width="0.8" opacity="0.35"/>
+
+  <!-- Tagline -->
+  <text x="430" y="130" font-family="'Segoe UI', Arial, monospace" font-size="13" font-weight="400"
+        fill="#c9d1d9" text-anchor="middle" letter-spacing="4" opacity="0.9">AI  &amp;  FULL-STACK  ENGINEER</text>
+
+  <!-- Sub keywords -->
+  <text x="430" y="158" font-family="monospace" font-size="10.5" fill="#58a6ff"
+        text-anchor="middle" opacity="0.65" letter-spacing="1.5">computer vision  ·  llm inference  ·  gpu systems  ·  full-stack  ·  open to work</text>
+
+  <!-- Right decorative bracket -->
+  <text x="806" y="122" font-family="monospace" font-size="58" fill="#a371f7" opacity="0.85" filter="url(#glow)">}</text>
+
+  <!-- Bottom accent bar -->
+  <rect x="0" y="197" width="860" height="3" fill="url(#accent)" rx="2"/>
+</svg>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kousarsaeed-65742124a)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kousarsaeed.narejo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kousar-coder)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kousarsaeed)
-[![Profile Views](https://komarev.com/ghpvc/?username=kousar-coder&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/kousar-coder)
+[![Profile Views](https://komarev.com/ghpvc/?username=kousar-coder&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/kousar-coder)
 
 </div>
 
 ---
 
-## `whoami`
+<div align="center">
 
-AI & Full-Stack Engineer shipping production systems across the ML and web stack.
-From GPU-accelerated inference pipelines to cloud-deployed products — I build things end to end.
+| | |
+|:---:|:---|
+| 🛰️ | Built a **GPU-accelerated Multimodal ISAC system** — 5G NR radar fused with YOLOv8, 3GPP-validated |
+| 🤖 | Shipped AI products with **LangChain · RAG · LLM APIs · n8n** automation |
+| 🔒 | Delivered **CI/CD & security infrastructure** on enterprise-grade microservices |
+| 🔍 | Currently deep in **computer vision, LLM inference & full-stack AI deployment** |
+| 💼 | Open to **full-time roles** and high-impact collaborations |
 
-- 🛰️ Built a **GPU-accelerated Multimodal ISAC system** — 5G NR radar fused with YOLOv8, validated against 3GPP standards
-- 🤖 Shipped AI products using **LangChain, RAG, LLM APIs** and n8n automation pipelines
-- 🔒 Delivered **CI/CD and security infrastructure** on enterprise-grade microservices
-- 🔍 Currently deep in **computer vision, LLM inference, and full-stack AI deployment**
-- 💼 Open to full-time roles and high-impact collaborations
+</div>
 
 ---
 
