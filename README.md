@@ -74,9 +74,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kousarsaeed-65742124a)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kousarsaeed.narejo@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kousar-coder)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kousar-saeed)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kousarsaeed)
-[![Profile Views](https://komarev.com/ghpvc/?username=kousar-coder&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/kousar-coder)
+[![Profile Views](https://komarev.com/ghpvc/?username=kousar-saeed&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/kousar-saeed)
 
 </div>
 
@@ -143,20 +143,20 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kousar-coder&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousar-coder&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=kousar-saeed&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kousar-saeed&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" height="165" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kousar-coder&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kousar-saeed&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kousar-coder&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kousar-saeed&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -166,7 +166,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kousar-coder&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=kousar-saeed&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 
 </div>
 
